@@ -1,0 +1,15 @@
+D:\GeekBrains\C_#\Examples\HW_05\bin\Debug\net7.0\HW_05.exe
+D:\GeekBrains\C_#\Examples\HW_05\bin\Debug\net7.0\HW_05.deps.json
+D:\GeekBrains\C_#\Examples\HW_05\bin\Debug\net7.0\HW_05.runtimeconfig.json
+D:\GeekBrains\C_#\Examples\HW_05\bin\Debug\net7.0\HW_05.dll
+D:\GeekBrains\C_#\Examples\HW_05\bin\Debug\net7.0\HW_05.pdb
+D:\GeekBrains\C_#\Examples\HW_05\obj\Debug\net7.0\HW_05.csproj.AssemblyReference.cache
+D:\GeekBrains\C_#\Examples\HW_05\obj\Debug\net7.0\HW_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C_#\Examples\HW_05\obj\Debug\net7.0\HW_05.AssemblyInfoInputs.cache
+D:\GeekBrains\C_#\Examples\HW_05\obj\Debug\net7.0\HW_05.AssemblyInfo.cs
+D:\GeekBrains\C_#\Examples\HW_05\obj\Debug\net7.0\HW_05.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C_#\Examples\HW_05\obj\Debug\net7.0\HW_05.dll
+D:\GeekBrains\C_#\Examples\HW_05\obj\Debug\net7.0\refint\HW_05.dll
+D:\GeekBrains\C_#\Examples\HW_05\obj\Debug\net7.0\HW_05.pdb
+D:\GeekBrains\C_#\Examples\HW_05\obj\Debug\net7.0\HW_05.genruntimeconfig.cache
+D:\GeekBrains\C_#\Examples\HW_05\obj\Debug\net7.0\ref\HW_05.dll
